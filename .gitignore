@@ -1,0 +1,7 @@
+# local history
+.history/
+
+# node
+node_modules/
+
+
